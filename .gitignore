@@ -1,0 +1,5 @@
+install
+*.bak
+*.uvgui*
+*.plg
+*.dep
