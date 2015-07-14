@@ -3,3 +3,4 @@ install
 *.uvgui*
 *.plg
 *.dep
+*.uvopt
